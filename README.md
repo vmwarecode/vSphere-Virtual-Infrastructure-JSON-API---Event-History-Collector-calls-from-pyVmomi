@@ -1,0 +1,1 @@
+# vSphere-Virtual-Infrastructure-JSON-API---Event-History-Collector-calls-from-pyVmomi
